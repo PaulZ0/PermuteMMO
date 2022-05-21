@@ -1,6 +1,6 @@
 # PermuteMMO
  
-Permutes MMO data to find shinies.
+Permutes MMO data to find alphas.
 
 Requires [.NET 6.0](https://dotnet.microsoft.com/download/dotnet/6.0). The executable can be built with any compiler that supports C# 10.
 
